@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ViktorBachynskyi.github.io/static/css/main.0904625a.css",
+    "main.js": "/ViktorBachynskyi.github.io/static/js/main.a6a9d7ce.js",
+    "index.html": "/ViktorBachynskyi.github.io/index.html",
+    "main.0904625a.css.map": "/ViktorBachynskyi.github.io/static/css/main.0904625a.css.map",
+    "main.a6a9d7ce.js.map": "/ViktorBachynskyi.github.io/static/js/main.a6a9d7ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0904625a.css",
+    "static/js/main.a6a9d7ce.js"
+  ]
+}
