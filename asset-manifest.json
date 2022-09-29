@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ViktorBachynskyi.github.io/real-time-chat/static/css/main.0904625a.css",
-    "main.js": "/ViktorBachynskyi.github.io/real-time-chat/static/js/main.b0432d18.js",
-    "index.html": "/ViktorBachynskyi.github.io/real-time-chat/index.html",
-    "main.0904625a.css.map": "/ViktorBachynskyi.github.io/real-time-chat/static/css/main.0904625a.css.map",
-    "main.b0432d18.js.map": "/ViktorBachynskyi.github.io/real-time-chat/static/js/main.b0432d18.js.map"
+    "main.css": "/real-time-chat/static/css/main.0904625a.css",
+    "main.js": "/real-time-chat/static/js/main.8b4fc0df.js",
+    "index.html": "/real-time-chat/index.html",
+    "main.0904625a.css.map": "/real-time-chat/static/css/main.0904625a.css.map",
+    "main.8b4fc0df.js.map": "/real-time-chat/static/js/main.8b4fc0df.js.map"
   },
   "entrypoints": [
     "static/css/main.0904625a.css",
-    "static/js/main.b0432d18.js"
+    "static/js/main.8b4fc0df.js"
   ]
 }
